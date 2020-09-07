@@ -1,0 +1,29 @@
+{
+  "name": "@digital-wafa/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared prettier configuration file",
+  "main": "prettier.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-wafa/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Abdelmounim JAKIM <abdelmounim.jakim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digital-wafa/prettier-config/issues"
+  },
+  "homepage": "https://github.com/digital-wafa/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": ">= 2.1.1"
+  }
+}
