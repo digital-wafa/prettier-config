@@ -1,5 +1,5 @@
 ![wafa prettier conifg](images/logo.png)
-# Prettier-config 
+# Prettier-config  ![npm version](https://img.shields.io/npm/v/@digital-wafa/prettier-config)
 
 A shared prettier configuration to use in digital wafa projects
 
@@ -22,7 +22,7 @@ Add a `prettier` property in your `package.json`. See the [Configuration docs](h
 
 If you find yourself in the situation where you have to change This configuration, here is how to do it.
 
-To extend a configuration you hava to create a `prettier.config.js` or `.prettierrc.js` file like the example below:
+To extend a configuration you have to create a `prettier.config.js` or `.prettierrc.js` file like the example below:
 
 ```javascript
 module.exports = {
