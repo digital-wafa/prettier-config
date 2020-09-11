@@ -32,3 +32,5 @@ module.exports = {
 };
 ```
 
+don't forget to delete the prettier property in `package.json` file.
+
